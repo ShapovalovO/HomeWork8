@@ -1,0 +1,15 @@
+D:\IT\C#\Homework8\task58\bin\Debug\net6.0\task58.exe
+D:\IT\C#\Homework8\task58\bin\Debug\net6.0\task58.deps.json
+D:\IT\C#\Homework8\task58\bin\Debug\net6.0\task58.runtimeconfig.json
+D:\IT\C#\Homework8\task58\bin\Debug\net6.0\task58.dll
+D:\IT\C#\Homework8\task58\bin\Debug\net6.0\task58.pdb
+D:\IT\C#\Homework8\task58\obj\Debug\net6.0\task58.csproj.AssemblyReference.cache
+D:\IT\C#\Homework8\task58\obj\Debug\net6.0\task58.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\C#\Homework8\task58\obj\Debug\net6.0\task58.AssemblyInfoInputs.cache
+D:\IT\C#\Homework8\task58\obj\Debug\net6.0\task58.AssemblyInfo.cs
+D:\IT\C#\Homework8\task58\obj\Debug\net6.0\task58.csproj.CoreCompileInputs.cache
+D:\IT\C#\Homework8\task58\obj\Debug\net6.0\task58.dll
+D:\IT\C#\Homework8\task58\obj\Debug\net6.0\refint\task58.dll
+D:\IT\C#\Homework8\task58\obj\Debug\net6.0\task58.pdb
+D:\IT\C#\Homework8\task58\obj\Debug\net6.0\task58.genruntimeconfig.cache
+D:\IT\C#\Homework8\task58\obj\Debug\net6.0\ref\task58.dll
